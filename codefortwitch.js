@@ -5,4 +5,4 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
      else if (pregunta.includes("nominado") || pregunta.includes("placa") || pregunta.includes("nominados")) {
     ("Los nominados son Valentina (13), Daniela(9), Michelle(7), Manuel(4), Felipe(4), Camila Andrade salvada . @" + usuario);
 } else {
-    ("MrDestructoid");}                           
+    ();}                           
