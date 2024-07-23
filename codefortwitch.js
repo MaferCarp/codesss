@@ -9,6 +9,6 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("eliminada") || pregunta.includes("eliminados")) {
     ("La eliminada fue Daniela(66%) vs Felipe(34%)... go to https://youtu.be/yNs1yWh9hU4?si=nSwBn3EnAN8XzR64 @" + usuario); }
      else if (pregunta.includes("nominado") || pregunta.includes("placa") || pregunta.includes("nominados")) {
-    ("Los nominados son Valentina (13), Daniela(9), Michelle(7), Manuel(4), Felipe(4), Camila Andrade salvada ... @" + usuario);
+    ("Los nominados son Valentina (13), Daniela(9), Michelle(7), Manuel(4), Felipe(4) ...go to https://youtu.be/yyhnLu5OdkE?si=KgxsttxByknAt-tq Camila Andrade salvada ... @" + usuario);
 } else {
 }                           
