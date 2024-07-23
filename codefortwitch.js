@@ -2,7 +2,7 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
     ("Los capitanes son Karina de MataFama y Pedro de Team Black... @" + usuario);
 } else if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres")) {
     ("Los líderes de la semana son Pedro y Carlyn... @" + usuario); }  
-     else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("wnes")) {
+     else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {
     ("Diego, Felipe, Seba ... @" + usuario); } 
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("eliminada") || pregunta.includes("eliminados")) {
     ("La eliminada fue Daniela(66%) vs Felipe(34%)... @" + usuario); }
