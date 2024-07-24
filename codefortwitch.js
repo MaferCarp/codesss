@@ -1,7 +1,7 @@
 if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.includes("capitana") || pregunta.includes("capitanes")) {
     ("Los capitanes son Karina (MataFama) y Pedro (Team Black)... @" + usuario);
 } else if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {
-    ("Los líderes de la semana son Antonia ♀ y Felipe ♂ ... Clip no disponible @" + usuario); }  
+    ("Los líderes de la semana son Antonia ♀ y Felipe ♂ ... Clip en espera @" + usuario); }  
      else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {
     ("Diego, Felipe, Seba ... @" + usuario); } 
          else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("gano la competencia") || pregunta.includes("competencia de equipos")) {
