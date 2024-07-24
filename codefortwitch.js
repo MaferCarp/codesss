@@ -5,7 +5,7 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
      else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {
     ("Diego, Felipe, Seba ... @" + usuario); } 
          else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("gano la competencia") || pregunta.includes("competencia de equipos")) {
-    ("Matafama son los ganadores... Clip → https://youtu.be/UiQkR-oOmHU?si=zKf_N2rupoteYSV6 @" + usuario); }
+    ("Matafama son los ganadores... Clip → https://youtu.be/Odu7NPYEdMg?si=OlUxQFUMM5PxObo5 @" + usuario); }
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("eliminada") || pregunta.includes("eliminados")) {
     ("La eliminada fue Daniela(66%) vs Felipe(34%)... Clip → https://youtu.be/yNs1yWh9hU4?si=nSwBn3EnAN8XzR64 @" + usuario); }
      else if (pregunta.includes("nominado") || pregunta.includes("placa") || pregunta.includes("nominados")) {
