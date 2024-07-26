@@ -4,6 +4,8 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
     ("Los líderes de la semana son Antonia ♀ y Felipe ♂ ... Clip → https://youtu.be/goeGHz-f8ek?si=VG-ypjeAC02pyiBk @" + usuario); }  
      else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {
     ("Diego, Felipe, Seba ... @" + usuario); } 
+         else if (pregunta.includes("salvo") || pregunta.includes("salvó") || pregunta.includes("salvaron") || pregunta.includes("salvada") || pregunta.includes("salvado") || pregunta.includes("salvados")) {
+    ("Chama salvada por Prueba de salvación ... @" + usuario); }
          else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("gano la competencia") || pregunta.includes("competencia de equipos")) {
     ("Matafama son los ganadores... Clip → https://youtu.be/Odu7NPYEdMg?si=OlUxQFUMM5PxObo5 @" + usuario); }
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("eliminada") || pregunta.includes("eliminados")) {
