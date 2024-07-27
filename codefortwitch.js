@@ -11,6 +11,6 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("eliminada") || pregunta.includes("eliminados")) {
     ("La eliminada fue Daniela(66%) vs Felipe(34%)... Clip → https://youtu.be/yNs1yWh9hU4?si=nSwBn3EnAN8XzR64 @" + usuario); }
      else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {
-    (" Patricio, Michelle, Chama, Karina, Yuyuniz y Camila Andrade  ... @" + usuario);
+    (" Patricio, Michelle, Karina, y Camila Andrade  ... @" + usuario);
 } else {
 }                           
