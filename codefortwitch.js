@@ -13,4 +13,4 @@ if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.in
      else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("nominaron") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {
     (" Patricio, Michelle, Karina, y Camila Andrade  ... @" + usuario);
 } else {
-(How can I help you? );}                           
+("En_qué_te_puedo_ayudar? @" + usuario);}                           
