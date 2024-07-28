@@ -1,5 +1,5 @@
 if (pregunta.includes("capitan") || pregunta.includes("capitán") || pregunta.includes("capitana") || pregunta.includes("capitanes")) {
-    ("@ + usuario " + Los capitanes son Karina (MataFama) y Pedro (Team Black)... @" + usuario);
+    ("Los capitanes son Karina (MataFama) y Pedro (Team Black)... @" + usuario);
 } else if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {
     ("Los líderes de la semana son Antonia ♀ y Felipe ♂ ... Clip → https://youtu.be/goeGHz-f8ek?si=VG-ypjeAC02pyiBk @" + usuario); }  
      else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {
