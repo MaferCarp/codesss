@@ -1,0 +1,3 @@
+
+!addcom [nombre del comando] $(eval var pregunta="$(query)".toLowerCase(); var usuario="$(user)"; $(urlfetch json [URL de tu comando subido a internet]))
+                            
