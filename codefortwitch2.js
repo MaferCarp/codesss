@@ -3,4 +3,4 @@ if (pregunta.includes("capítulo") || pregunta.includes("episodio")  || pregunta
   else if (pregunta.includes(" nominación ")  || pregunta.includes("votación") || (pregunta.includes("nominan") || (pregunta.includes("votan")) {(" Gala de nominación → Miércoles... @" + usuario);}
   else if (pregunta.includes(" salvación") || pregunta.includes("salvan"))  {(" Prueba de salvación → Jueves... @" + usuario);}
   else if (pregunta.includes(" fiesta")) {(" Espiando la casa: «La fiesta» → Viernes... @" + usuario);}
-  else {} 
+  else 
