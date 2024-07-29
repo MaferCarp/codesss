@@ -1,1 +1,1 @@
-$(eval a=$(urlfetch json https://pastebin.com/raw/kGUkD5Kt 59);a​[Math.floor(Math.random()*a.length)])
+$(eval a=$(urlfetch json https://pastebin.com/raw/kGUkD5Kt);a​[Math.floor(Math.random()*a.length)])
