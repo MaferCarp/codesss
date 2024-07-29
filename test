@@ -1,0 +1,1 @@
+!addcom num $(eval N=`$(1)`;if(N==`1`){`test1`}else if(N==`2`){`test2`}else if(N==`3`){`test3`}else{`Error`})
