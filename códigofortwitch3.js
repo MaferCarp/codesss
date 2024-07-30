@@ -1,6 +1,5 @@
 if (pregunta.includes("michelle")||pregunta.includes("michel")) {( usuario + `  ` + " Michelle"+ `  ` + cuenta + `  ` + "votos");}
-else if (pregunta.includes("patricio") || pregunta.includes("pato")) {( usuario + "Patricio" + cuenta + "votos" );}
-else if(pregunta.includes("nominación")  || pregunta.includes("votación") || pregunta.includes("nominan") || pregunta.includes("votan") || pregunta.includes("nomin")) {( usuario + " Gala de nominación → Miércoles... " );}
-else if(pregunta.includes("salvación") || pregunta.includes("salvan"))  {( usuario + " Prueba de salvación → Jueves... " );}
-else if(pregunta.includes("fiesta") || pregunta.includes("baile")) {( usuario + " Espiando la casa: La fiesta → Viernes... " );}
-else {}
+else if (pregunta.includes("patricio") || pregunta.includes("pato")) {( usuario + `  ` + "Patricio"+ `  ` + cuenta + `  ` + "votos" );}
+else if(pregunta.includes("karina")  || pregunta.includes("kari")) {( usuario + `  ` + " Karina"+`  `+ cuenta + `  ` + "votos" );}
+else if(pregunta.includes("Camila") || pregunta.includes("Andrade"))  {( usuario + `  ` + "Camila Andrade"+ `  ` + cuenta + `  ` + "votos" );}
+else {("Los nominados son Michelle, Patricio, Karina y Camila Andrade"+`  `+usuario);}
