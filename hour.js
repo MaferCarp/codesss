@@ -1,3 +1,3 @@
-if (pregunta.includes("eliminados") || pregunta.includes("eliminación") || pregunta.includes("eliminaciones") || pregunta.includes("eliminado")) {
-    (" !hora " + ausuario);
+if (pregunta.includes("empieza") || pregunta.includes("comienza") || pregunta.includes("arranca")) 
+    (" !hora " + conteo + usuario );
 } else {}
