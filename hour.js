@@ -1,2 +1,2 @@
-if (pregunta.includes("canal") || pregunta.includes("comienza") || pregunta.includes("arranca")) {(" hora " + timer + usuario );}
+if (pregunta.includes("empieza") || pregunta.includes("comienza") || pregunta.includes( ` `)) {(" La gala en vivo comienza en +" "+ timer +" "+ usuario );}
 else {}
