@@ -1,0 +1,5 @@
+Hola, estoy intentando crear estos dos comandos para nuestro canal. El primero es llevar un registro de los puntos que se dan. Y el segundo es editar el primer comando.
+
+!addcom !points -ul=sponsor -cd=10 | Nombre1 - 0 | Nombre2 - 0 | Nombre3 - 0 | Nombre4 - 0 | Nombre5 - 0 |
+
+!addcom !pntedit -ul=mod -cd=10 -a=!commands edit !points | Nombre1 - $(consulta) | Nombre2 - $(consulta) | Nombre3 - $(consulta) | Nombre4 - $(consulta) | Nombre5 - $(consulta) |
