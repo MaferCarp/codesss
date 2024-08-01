@@ -1,0 +1,1 @@
+!addcom FIRST_WORD $(eval `$(query)`.toLowerCase().includes(`REST_OF_THE_SENTENCE_IN_LOWER_CASE`)?`YOUR_RESPONSE`:` `)
