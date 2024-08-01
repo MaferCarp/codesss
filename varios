@@ -1,0 +1,1 @@
+!addcom !ping $(urlfetch https://vxrl.xyz/smm/$(eval `$(provider)`==`discord`?u=`<@$(userid)>`:u=`@$(user)`;`${u}%20here/${u}%20you/${u}%20go/${u}%20gamer%20XD?i=5000&d=0`))
