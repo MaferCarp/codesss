@@ -1,3 +1,3 @@
 
-!addcom [nombre del comando] $(eval var pregunta="$(query)".toLowerCase(); var usuario="$(user)"; $(urlfetch json https://raw.githubusercontent.com/MaferCarp/codesss/main/tester)); $(eval a=$(urlfetch json https://pastebin.com/raw/emqzANBv);a​[Math.floor(Math.random()*a.length)])
+!addcom [nombre del comando] $(eval var pregunta="$(query)".toLowerCase(); var usuario="$(user)"; $(urlfetch json https://raw.githubusercontent.com/MaferCarp/codesss/main/tester)) $(eval a=$(urlfetch json https://pastebin.com/raw/emqzANBv);a​[Math.floor(Math.random()*a.length)])
                             
