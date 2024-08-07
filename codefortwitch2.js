@@ -1,6 +1,6 @@
-if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality")) {(" Gala de nominación...23:00 Hs") ;} /+ timer2/
+if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality")) {(" Gala de nominación...23:00 Hs") ;} 
                                                                                                                                                                    
-  else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación (Domingo) ") ;} /+timer1/
+  else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación (Domingo) ") ;} 
 
 else if (pregunta.includes("competencia") || pregunta.includes("equipos")) {( "Competencia semanal → Martes... " );}
   
