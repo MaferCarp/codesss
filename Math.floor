@@ -1,0 +1,1 @@
+$(eval r=Math.floor(Math.random()*100+1);r==100?`Nice`:r==99?`Close one!`:`Not bad`)
