@@ -1,7 +1,6 @@
 if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {("El nuevo líder es !iñigo.); }  
     
-        
-     else if (pregunta.includes("espontanea") || pregunta.includes("espontaneo") || pregunta.includes("espontánea") || pregunta.includes("espont")) {("!Chama activó el voto espontáneo. Dio 3!Felipe y 2!Yuyuniz ... " + usuario); }   
+ else if (pregunta.includes("espontanea") || pregunta.includes("espontaneo") || pregunta.includes("espontánea") || pregunta.includes("espont")) {("!Chama activó el voto espontáneo. Dio 3!Felipe y 2!Yuyuniz ... " + usuario); }   
          
     else if (pregunta.includes("salv") || pregunta.includes("salvó") || pregunta.includes("salvaron") || pregunta.includes("salvada") || pregunta.includes("salvado") || pregunta.includes("salvados")) { (" Felipe salvad@ en la Prueba de salvación y Michelle por Líder ... " + usuario); }
         
