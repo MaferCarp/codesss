@@ -1,6 +1,5 @@
 if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {("El nuevo líder es !iñigo.); }  
     
-    else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {("!Diego, !Felipe, !Seba ... " + usuario); } 
         
      else if (pregunta.includes("espontanea") || pregunta.includes("espontaneo") || pregunta.includes("espontánea") || pregunta.includes("espont")) {("!Chama activó el voto espontáneo. Dio 3!Felipe y 2!Yuyuniz ... " + usuario); }   
          
