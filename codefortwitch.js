@@ -1,4 +1,4 @@
-if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {("El líder de esta semana es !iñigo.); }  
+if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.includes("lider") || pregunta.includes("lideres") || pregunta.includes("liderazgo")) {("El nuevo líder es !iñigo.); }  
     
     else if (pregunta.includes("weon") || pregunta.includes("weona") || pregunta.includes("weones") || pregunta.includes("weón")) {("!Diego, !Felipe, !Seba ... " + usuario); } 
         
