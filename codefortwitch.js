@@ -8,6 +8,6 @@ if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.inc
              
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("elimin") || pregunta.includes("eliminados")) {("La eliminada fue Yuyuniz (86,30%) sobre Patricio (13,70%). "); }
         
-     else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("nominaron") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {(" Yuyuniz, Manuel, Chama, Cami y Patricio (Michelle & Felipe salvad@s). ");} 
+     else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("nominaron") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {(" Carlyn..Power..Manuel..Chama..Michelle. ");} 
          
      else {}                           
