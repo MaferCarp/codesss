@@ -6,7 +6,7 @@ else if (pregunta.includes("competencia") || pregunta.includes("equipos")) {( "C
   
 else if(pregunta.includes("nominación")  || pregunta.includes("votación") || pregunta.includes("nominan") || pregunta.includes("votan") || pregunta.includes("nomin")) {( " Gala de nominación → Miércoles. " );}
   
-else if(pregunta.includes("salvación") || pregunta.includes("salvan"))  {(" Prueba de salvación → Jueves. " );}
+else if(pregunta.includes("salvación") || pregunta.includes("salvan"))  {("Gala del Líder y Prueba de salvación → Jueves. " );}
   
 else if(pregunta.includes("fiesta") || pregunta.includes("baile")) {(" Espiando la casa: La fiesta → Viernes. " );}
 else {}
