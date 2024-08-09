@@ -1,4 +1,4 @@
-if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Gala del Líder y salvación...23:00 Hs") ;} 
+if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Espiando la casa: La fiesta → Viernes.") ;} 
                                                                                                                                                                    
   else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación (Domingo) ") ;} 
 
