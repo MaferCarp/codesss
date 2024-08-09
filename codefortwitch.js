@@ -2,7 +2,7 @@ if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.inc
     
  else if (pregunta.includes("espontanea") || pregunta.includes("espontaneo") || pregunta.includes("espontánea") || pregunta.includes("espont")) {("Manuel activó el voto espontáneo con 3 iñigo y 2 Felipe. "); }   
          
-    else if (pregunta.includes("salv") || pregunta.includes("salvó") || pregunta.includes("salvaron") || pregunta.includes("salvada") || pregunta.includes("salvado") || pregunta.includes("salvados")) { (" Felipe salvad@ en la Prueba de salvación y Michelle por Líder. "); }
+    else if (pregunta.includes("salv") || pregunta.includes("salvó") || pregunta.includes("salvaron") || pregunta.includes("salvada") || pregunta.includes("salvado") || pregunta.includes("salvados")) { (" Carlyn salvada en la Prueba de salvación . "); }
         
          else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("ganó la competencia") || pregunta.includes("competencia de equipos") || pregunta.includes("casa")) {(" !Waldo, Miguel, Pato,Íñigo, Iván, Linda, Cami A., Michelle y Carlyn (Casa) "); }
              
