@@ -8,6 +8,6 @@ if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.inc
              
     else if (pregunta.includes("eliminado") || pregunta.includes("eliminaron") || pregunta.includes("elimin") || pregunta.includes("eliminados")) {("La eliminada fue Yuyuniz (86,30%) sobre Patricio (13,70%). "); }
         
-     else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("nominaron") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {(" Manuel..Chama..Michelle, y Diego(telefono rojo de Yuhui) ");} 
+     else if (pregunta.includes("nominado") || pregunta.includes("votaciones") || pregunta.includes("nominaron") || pregunta.includes("votación") || pregunta.includes("votaron") || pregunta.includes("placa") || pregunta.includes("nominados")) {(" Manuel..Chama..Michelle, y Diego (SMS al 3331, o en la web → https://granhermano.celcom.cl/# )");} 
          
      else {}                           
