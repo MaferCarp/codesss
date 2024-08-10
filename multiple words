@@ -1,1 +1,3 @@
 !addcom PRIMERA_PALABRA $(eval `$(query)`.toLowerCase().includes(` RESTO DEL COMANDO EN_LOWER_CASE `)?` TU RESPUESTA `: ` `)
+
+!addcom buenos $(eval `$(1)`.toLowerCase()==`dias`?`Response_Here`:` `)
