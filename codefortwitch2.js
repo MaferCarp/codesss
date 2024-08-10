@@ -1,6 +1,6 @@
-if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Espiando la casa: La fiesta → Viernes.") ;} 
+if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Espiando la casa: La fiesta en " + timer3) ;} 
                                                                                                                                                                    
-  else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación (Domingo) ") ;} 
+  else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación en "+ timer1) ;} 
 
 else if (pregunta.includes("competencia") || pregunta.includes("equipos")) {( "Competencia semanal → Martes... " );}
   
