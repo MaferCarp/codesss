@@ -1,4 +1,4 @@
-if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión")  ||pregunta.includes("programa") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Noche de reality comienza en..."+timer2  ) ;} 
+if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión")  ||pregunta.includes("programa") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Gala de eliminación + nueva participante comienza en..."+timer2  ) ;} 
                                                                                                                                                                    
   else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación en.. "+ timer1+" 🕹 ") ;} 
 
