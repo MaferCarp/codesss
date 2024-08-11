@@ -1,12 +1,12 @@
-if (pregunta.includes("capítulo")||pregunta.includes("episodio") ||pregunta.includes("prime") ||pregunta.includes("transmisión")  ||pregunta.includes("programa") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Gala de eliminación + nueva participante comienza en..."+timer2  ) ;} 
+if (pregunta.includes("capítulo")|| pregunta.includes("capitulo") ||pregunta.includes("episod") ||pregunta.includes("prime") ||pregunta.includes("transmis")  ||pregunta.includes("program") || pregunta.includes("reality") ||pregunta.includes("directo")) {(" Gala de eliminación + nueva participante comienza en..."+timer2  ) ;} 
                                                                                                                                                                    
-  else if (pregunta.includes("eliminación") || pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación → Domingo (cambio de día) ") ;} 
+  else if (pregunta.includes("elimin") || pregunta.includes("gala")) {("Gala de eliminación → Domingo (cambio de día) ") ;} 
 
-else if (pregunta.includes("competencia") || pregunta.includes("equipos")) {( "Competencia semanal → Martes. " );}
+else if (pregunta.includes("compe") || pregunta.includes("equipo")) {( "Competencia semanal → Martes. " );}
   
-else if(pregunta.includes("nominación")  || pregunta.includes("votación") || pregunta.includes("nominan") || pregunta.includes("votan") || pregunta.includes("nomin")) {( " Gala de nominación → Miércoles. " );}
+else if(pregunta.includes("nomina")  || pregunta.includes("votan")) {( " Gala de nominación → Miércoles. " );}
   
-else if(pregunta.includes("salvación") || pregunta.includes("salvan"))  {("Gala del Líder y Prueba de salvación → Jueves. " );}
+else if(pregunta.includes("salva") || pregunta.includes("prueba") && pregunta.includes("salva"))  {("Gala del Líder y Prueba de salvación → Jueves. " );}
   
-else if(pregunta.includes("fiesta") || pregunta.includes("baile")) {(" Espiando la casa: La fiesta → Viernes. " );}
+else if(pregunta.includes("fiest") || pregunta.includes("bail")) {(" Espiando la casa: La fiesta → Viernes. " );}
 else {}
