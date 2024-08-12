@@ -6,7 +6,7 @@ if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.inc
         
          else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("ganó la competencia") || pregunta.includes("competencia de equipos") || pregunta.includes("casa")) {(" !Waldo, Miguel, Pato,Íñigo, Iván, Linda, Cami A., Michelle y Carlyn (Casa) "); }
              
-    else if (pregunta.includes("qui") && pregunta.includes("eliminar") || pregunta.includes("cu") && pregunta.includes("eliminar")  || pregunta.includes("eliminad") || pregunta.includes("abandon")) {("Abandonó la casa: Diego con (57%) sobre Manuel (43%). "); }
+    else if (pregunta.includes("qui") && pregunta.includes("eliminar") || pregunta.includes("cu") && pregunta.includes("eliminar")  || pregunta.includes("eliminad") || pregunta.includes("se fue")|| pregunta.includes("abandon")) {("Abandonó la casa: Diego con (57%) sobre Manuel (43%). "); }
         
      else if (pregunta.includes("qui") && pregunta.includes("nominar") || pregunta.includes("cu") && pregunta.includes("nominar")  || pregunta.includes("qui") && pregunta.includes("votar") || pregunta.includes("cu") && pregunta.includes("votar")  ||  pregunta.includes("nominad")   || pregunta.includes("votac") || pregunta.includes("placa")) {(" Manuel..Chama..Michelle, y Diego (SMS al 3331, o en la web → https://granhermano.celcom.cl/# )");} 
 
