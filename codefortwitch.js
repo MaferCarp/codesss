@@ -4,7 +4,7 @@ if (pregunta.includes("líder") || pregunta.includes("líderes") || pregunta.inc
          
     else if (pregunta.includes("salvó") || pregunta.includes("qui") && pregunta.includes("salvar") || pregunta.includes("cu") && pregunta.includes("salvar") || pregunta.includes("salvad")) { (" Carlyn salvada en la Prueba de salvación, y Power salvada por íñigo(líder) . "); }
         
-         else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("ganó la competencia") || pregunta.includes("competencia de equipos") || pregunta.includes("casa")) {(" !Waldo, Miguel, Pato,Íñigo, Iván, Linda, Cami A., Michelle y Carlyn (Casa) "); }
+         else if (pregunta.includes("ganó la competencia") || pregunta.includes("equipos") || pregunta.includes("ganaron la competencia") || pregunta.includes("prueba de equipos") || pregunta.includes("ganó la competencia") || pregunta.includes("competencia de equipos") || pregunta.includes("casa")) {(" YUHUI ( mejor tiempo), MANU, MIGUEL,PEDRO,PATO,ANTONIA,CHAMA,CAMILA Y POWER (Premio) "); }
              
     else if (pregunta.includes("qui") && pregunta.includes("eliminar") || pregunta.includes("cu") && pregunta.includes("eliminar")  || pregunta.includes("eliminad") || pregunta.includes("se fue")|| pregunta.includes("abandon")) {("Abandonó la casa: Diego con (57%) sobre Manuel (43%). "); }
         
