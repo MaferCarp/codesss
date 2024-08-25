@@ -1,4 +1,7 @@
-var r = `/me Réflechis frérot`;
+      $(eval var a=`$(twitch $(channel) "{{title}};;;{{game}}")`.split(`;;;`); $(urlfetch json 
+       https://pastebin.com/raw/XXXXXXXX))
+ 
+var r = `/me (mensaje) `;
 if(a[1]==`Project Winter`){
 	r=`/me (mensaje) `;
 }
