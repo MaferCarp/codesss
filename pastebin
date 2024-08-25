@@ -1,0 +1,16 @@
+var r = `/me Réflechis frérot`;
+if(a[1]==`Project Winter`){
+	r=`/me (mensaje) `;
+}
+else if(a[1]==`The Hunter`){
+	r=`/me (mensaje) `;
+}
+else if(a[1]==`Minecraft`){
+	if(a[0].toLowerCase().includes(`switch`)){
+		r=`(mensaje)`;
+	}
+	else if(a[0].toLowerCase().includes(`taupe`)){
+		r=`/me (mensaje) `;
+	}
+}
+r;
