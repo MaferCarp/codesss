@@ -1,7 +1,7 @@
 
 <?php
     $numero = rand(0, 100);
-    $mensaje = "";
+    $mensaje = "okkk";
 
     if($numero == 0){
         $mensaje = "Te quiere como amigo y de lejos";
