@@ -1,0 +1,2 @@
+if (pregunta.includes("qui") && pregunta.includes("nominar") || pregunta.includes("cu") && pregunta.includes("nominar")  || pregunta.includes("qui") && pregunta.includes("votar") || pregunta.includes("cu") && pregunta.includes("votar")  ||  pregunta.includes("nominad")   || pregunta.includes("votac") || pregunta.includes("placa")) {(" Angèlica, Manuel, Felipe, Linda, Waldo, Cami, Michelle y Pedro (SMS al 3331, o en la web → https://granhermano.celcom.cl/# )");} 
+else {}
