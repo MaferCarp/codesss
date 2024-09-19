@@ -1,6 +1,6 @@
-if (pregunta.includes("capítulo")|| pregunta.includes("capitulo") ||pregunta.includes("evento") ||pregunta.includes("episod") ||pregunta.includes("prime") ||pregunta.includes("transmis")  ||pregunta.includes("program") || pregunta.includes("reality") ||pregunta.includes("directo") ||pregunta.includes("gala") ||pregunta.includes("empieza") ||pregunta.includes("comienza")) {(" La gala en directo comenzará en... "   +timer2+"... 🇨🇱 GoatEmotey"  ) ;} //cuándo, hoy
+if (pregunta.includes("capítulo")|| pregunta.includes("capitulo") ||pregunta.includes("evento") ||pregunta.includes("episod") ||pregunta.includes("prime") ||pregunta.includes("transmis")  ||pregunta.includes("program") || pregunta.includes("reality") ||pregunta.includes("directo") ||pregunta.includes("gala") ||pregunta.includes("empieza") ||pregunta.includes("comienza")) {(" Hoy No hay programa. El siguiente será el domingo."  ) ;} //cuándo, hoy
                                                                                                                                                                    
-  else if (pregunta.includes("elimin") ||pregunta.includes("vota") ||pregunta.includes("gala") && pregunta.includes("elimin")) {("La gala de eliminación comenzará en..."+timer1  ") ;} 
+  else if (pregunta.includes("elimin") ||pregunta.includes("vota") ||pregunta.includes("gala") && pregunta.includes("elimin")) {("La gala de eliminación → domingo") ;} 
 
 else if (pregunta.includes("compe") || pregunta.includes("equipo")) {( "𝘊𝘰𝘮𝘱𝘦𝘵𝘦𝘯𝘤𝘪𝘢 𝘴𝘦𝘮𝘢𝘯𝘢𝘭 → 𝘔𝘢𝘳𝘵𝘦𝘴 " );}
   
